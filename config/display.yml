@@ -1,0 +1,11 @@
+display:
+  width: 1920
+  height: 1080
+  fullscreen: true
+  fps: 60
+  vsync: true
+  background_color: [0, 0, 0]  # RGB black
+
+debug:
+  show_fps: true
+  show_entity_count: false
